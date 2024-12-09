@@ -1,0 +1,1 @@
+# DECODE / ENCODE MonetizationVars file
